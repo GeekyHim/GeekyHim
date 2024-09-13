@@ -1,6 +1,5 @@
 👋 Hi, I’m @GeekyHim, Himanshu Gupta. <br>
 I am currently pursuing a Bachelor of Engineering in Computer Science at Chandigarh University, Gharuan. <br>
-My interest lies in understanding how the world works. <br>
 My passion is focusing on continuous growth and utilizing my knowledge towards advancing myself and uplifting those around me. <br>
 I am dedicated towards exploring and executing projects and striving for excellence. <br>
 <br>
