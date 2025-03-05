@@ -7,8 +7,9 @@ I am dedicated towards exploring and executing projects and striving for excelle
 My Tech Stack : <br>
 - Java <br>
 - C/C++ <br>
+- JavaScript <br>
 - Python <br>
-- HTML <br>
+- HTML/CSS <br>
 
 <!---
 GeekyHim/GeekyHim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
