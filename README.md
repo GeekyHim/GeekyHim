@@ -11,13 +11,11 @@ My goal is to continuously evolve, contribute to impactful projects, and collabo
 <br>
 My Tech Stack : 
 <br>
-- Programming Languages: <br>  
+- Programming Languages:
   Java | JavaScrript | C/C++ | Python
-<br>
-- Technical Tools: <br>
+- Technical Tools:
   MongoDB | Git/GitHub | Arduino | MySQL | VS Code
-<br>
-- Interpersonal Skills:<br> 
+- Interpersonal Skills:
   Adaptability |Continuous Learner| Soft Skills | Communication Skills |Innovative Mindset | Team Leadership | Problem Solving | Critical Thinking | Public Speaking | Attention to Detail |   
   Time Management<br>
 <br>
