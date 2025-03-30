@@ -16,7 +16,7 @@ My Tech Stack :
   <br> 
 •	Technical Tools: 
   MongoDB | Git/GitHub | Arduino | MySQL | VS Code
-  <br>
+<br>
 •	Interpersonal Skills: 
   Adaptability |Continuous Learner| Soft Skills | Communication Skills |Innovative Mindset | Team Leadership | Problem Solving | Critical Thinking | Public Speaking | Attention to Detail |   
   Time Management<br>
