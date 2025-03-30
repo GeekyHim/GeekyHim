@@ -11,12 +11,14 @@ My goal is to continuously evolve, contribute to impactful projects, and collabo
 <br>
 My Tech Stack : 
 <br>
-- Programming Languages: <br>
+- Programming Languages : <br>
   Java | JavaScrript | C/C++ | Python <br>
-- Technical Tools: <br>
+  
+- Technical Tools : <br>
   MongoDB | Git/GitHub | Arduino | MySQL | VS Code <br>
-- Interpersonal Skills: <br>
-  Adaptability |Continuous Learner| Soft Skills | Communication Skills |Innovative Mindset | Team Leadership | Problem Solving | Critical Thinking | Public Speaking | Attention to Detail | Time Management<br>
+  
+- Interpersonal Skills : <br>
+  Adaptability | Continuous Learner | Soft Skills | Communication Skills | Innovative Mindset | Team Leadership | Problem Solving | Critical Thinking | Public Speaking | Attention to Detail | Time Management<br>
 <br>
 <!---
 GeekyHim/GeekyHim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
