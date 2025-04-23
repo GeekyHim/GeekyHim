@@ -9,7 +9,7 @@ I have also had the privilege of participating in various prestigious competitio
 My goal is to continuously evolve, contribute to impactful projects, and collaborate with individuals who share the same enthusiasm for technology and innovation. I am always open to new opportunities, challenges, and learning experiences.<br>
 <br>
 <br>
-My Tech Stack : 
+My Skill Stack : 
 <br>
 - Programming Languages : <br>
   Java | JavaScrript | C/C++ | Python <br>
