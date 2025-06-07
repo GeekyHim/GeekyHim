@@ -12,7 +12,7 @@ My goal is to continuously evolve, contribute to impactful projects, and collabo
 My Skill Stack : 
 <br>
 - Programming Languages : <br>
-  Java | JavaScrript | C/C++ | Python <br>
+  Java | JavaScript | PHP | C/C++ | Python <br>
   
 - Technical Tools : <br>
   MongoDB | Git/GitHub | Arduino | MySQL | VS Code <br>
