@@ -6,7 +6,7 @@ Exploring emerging technologies, executing impactful projects, and constantly ch
 Actively engaging in leadership roles, community-driven initiatives, and technical clubs, contributing to fostering a culture of learning and collaboration.
  
 ### Experiences:<br>
-During and after my tenure as the Joint Secretary of C Square Club, university level coding club, played a key role in organizing workshops, events, and hands-on coding sessions that empower students to grow their technical skills.
+During and after my tenure as the Joint Secretary of C Square Club, University level coding club, I played a key role in organizing workshops, events, and hands-on coding sessions that empower students to grow their technical skills.
 
 Participated in various prestigious competitions like the NIT Hamirpur Hackathon (Obsidian Saga, national-level hackathon) where me and my team emerged as Grand Winner in the same. 
 Additionally, attending workshops such as the Web and Mobile App Development workshop by IIT Roorkee, Data Analysis and SQL Boot camp by NIT Trichy etc. 
