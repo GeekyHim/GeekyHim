@@ -1,3 +1,5 @@
+![background](https://github.com/user-attachments/assets/d45f952f-9de6-418a-8760-8a4a246988ca)
+
 👋 Hi, I’m @GeekyHim, Himanshu Gupta — a Full Stack Engineer and Computer Science undergraduate at Chandigarh University. 
 
 I enjoy building scalable solutions, solving real-world problems, and turning ideas into impactful products. My core strengths lie in Java, Data Structures & Algorithms, Spring Boot and PostgreSQL, where I focus on writing efficient and production-ready code. 
