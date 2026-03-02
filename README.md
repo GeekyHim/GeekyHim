@@ -1,21 +1,21 @@
-👋 Hi, I’m @GeekyHim, Himanshu Gupta, a Bachelor of Engineering (CSE) student at Chandigarh University.<br>
+👋 Hi, I’m @GeekyHim, Himanshu Gupta — a Full Stack Engineer and Computer Science undergraduate at Chandigarh University. 
 
-### About Me:
-Deeply passionate about continuous learning, innovation, and problem-solving. 
-Exploring emerging technologies, executing impactful projects, and constantly challenging myself to improve and push my boundaries gaining meaningful experiences.
-Actively engaging in leadership roles, community-driven initiatives, and technical clubs, contributing to fostering a culture of learning and collaboration.
- 
-### Experiences:<br>
-During and after my tenure as the Joint Secretary of C Square Club, University level coding club, I played a key role in organizing workshops, events, and hands-on coding sessions that empower students to grow their technical skills.
+I enjoy building scalable solutions, solving real-world problems, and turning ideas into impactful products. My core strengths lie in Java, Data Structures & Algorithms, Spring Boot and PostgreSQL, where I focus on writing efficient and production-ready code. 
 
-Participated in various prestigious competitions like the NIT Hamirpur Hackathon (Obsidian Saga, national-level hackathon) where me and my team emerged as Grand Winner in the same. 
-Additionally, attending workshops such as the Web and Mobile App Development workshop by IIT Roorkee, Data Analysis and SQL Boot camp by NIT Trichy etc. 
+I was the Grand Winner of the National Hackathon at NIT Hamirpur, where my team built an innovative solution under high-pressure constraints, an experience that strengthened my problem-solving, collaboration, and execution skills. 
 
-### Goal: <br>
-To continuously evolve, contribute to impactful projects, and collaborate with individuals who share the same enthusiasm for technology and innovation. 
+Beyond coding, I am deeply involved in community building and leadership. Having led 15+ events and served as the Joint Secretary of C Square Club (University Coding Club), I continue to organize workshops, technical events, and hands-on sessions, empowering hundreds of students to strengthen their technical foundations and confidence. <br>
 
-Open to new opportunities, challenges, and learning experiences.
+At the same time, I actively participate in hackathons, technical competitions, workshops, and industry events to continuously learn, adapt, and expose myself to new ideas and challenges. I strongly believe that growth compounds when shared, and through both organizing and participating in initiatives, I strive to contribute to a culture of learning, collaboration, and innovation.
 
+Currently focused on: <br>
+<ul>
+<li> Full Stack Development </li>  
+<li> Advanced DSA & Core Computer Science </li> 
+<li> Building impactful tech communities </li>
+</ul>
+
+I’m always open to collaborating on meaningful projects, hackathons, and opportunities that challenge me to grow. Let’s connect and build something impactful.
 <br><br>
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
